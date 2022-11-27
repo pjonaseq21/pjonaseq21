@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pjonaseq21
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Python,Node
+- 🌱 I’m currently learning Node
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me telegram - pjonas .
 
